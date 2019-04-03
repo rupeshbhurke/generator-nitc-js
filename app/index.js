@@ -5,13 +5,15 @@ module.exports = class extends Generator {
         super(args, opts);
         this.log('Initializing...');
     }
+    
     start() {
         this.log('Do something...');
         this.prompt([
             {
                 type: 'input',
                 name: 'name',
-                message: 'Enter a name for the new component (i.e.: myNewComponent): '
+                message: 'Enter a name for the new component (i.e.: Home): ',
+                default: 'Home'
             }
         ]).then((answers) => {
             // create destination folder
