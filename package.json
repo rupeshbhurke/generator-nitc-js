@@ -1,0 +1,36 @@
+{
+  "name": "generator-nitc-js",
+  "version": "1.0.0",
+  "description": "To generate JS/JSON files for NITC CRM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupeshbhurke/generator-nitc-js.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "angular",
+    "component",
+    "javascript",
+    "builder",
+    "scaffold",
+    "generator",
+    "NITC",
+    "JS",
+    "JSON"
+  ],
+  "author": "Rupesh Bhurke <rupeshbhurke@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rupeshbhurke/generator-nitc-js/issues"
+  },
+  "homepage": "https://github.com/rupeshbhurke/generator-nitc-js#readme",
+  "dependencies": {
+    "decamelize": "^3.1.1",
+    "uppercamelcase": "^3.0.0",
+    "yeoman-generator": "^3.2.0"
+  }
+}
