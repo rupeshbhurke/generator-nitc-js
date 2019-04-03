@@ -3,7 +3,26 @@
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-nitc-js using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) (assuming you have pre-installed [node.js](https://nodejs.org/)).
+
+```bash
+npm install -g yo
+git https://github.com/rupeshbhurke/generator-nitc-js.git
+cd generator-nitc-js
+npm install
+npm link
+yo 
+```
+
+Then generate your new project:
+
+```bash
+yo nitc
+```
+
+
+## OR
+
 
 ```bash
 npm install -g yo
