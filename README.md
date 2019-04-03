@@ -1,13 +1,13 @@
-# generator-nitc [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# generator-nitc-js [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > 
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-nitc using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) and generator-nitc-js using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
-npm install -g generator-nitc
+npm install -g generator-nitc-js
 ```
 
 Then generate your new project:
@@ -28,11 +28,11 @@ yo nitc
 MIT © [Rupesh Bhurke]()
 
 
-[npm-image]: https://badge.fury.io/js/generator-nitc.svg
-[npm-url]: https://npmjs.org/package/generator-nitc
-[travis-image]: https://travis-ci.org/rupeshbhurke/generator-nitc.svg?branch=master
-[travis-url]: https://travis-ci.org/rupeshbhurke/generator-nitc
-[daviddm-image]: https://david-dm.org/rupeshbhurke/generator-nitc.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/rupeshbhurke/generator-nitc
-[coveralls-image]: https://coveralls.io/repos/rupeshbhurke/generator-nitc/badge.svg
-[coveralls-url]: https://coveralls.io/r/rupeshbhurke/generator-nitc
+[npm-image]: https://badge.fury.io/js/generator-nitc-js.svg
+[npm-url]: https://npmjs.org/package/generator-nitc-js
+[travis-image]: https://travis-ci.org/rupeshbhurke/generator-nitc-js.svg?branch=master
+[travis-url]: https://travis-ci.org/rupeshbhurke/generator-nitc-js
+[daviddm-image]: https://david-dm.org/rupeshbhurke/generator-nitc-js.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/rupeshbhurke/generator-nitc-js
+[coveralls-image]: https://coveralls.io/repos/rupeshbhurke/generator-nitc-js/badge.svg
+[coveralls-url]: https://coveralls.io/r/rupeshbhurke/generator-nitc-js
